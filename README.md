@@ -1,4 +1,12 @@
-### Hi there 👋
+### Some profile stats
+
+![GitHub metrics](https://metrics.lecoq.io/zFlxw?languages=1&followup=1&config.timezone=Europe%2FBerlin)
+
+## Some other information
+
+- 🔭 I’m currently working on projects for Melion.net
+- 🌱 I’m currently learning Kotlin
+- ⚡ Fun fact: I've recently bought a Logitech G29 steering wheel
 
 <!--
 **zFlxw/zFlxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
