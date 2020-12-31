@@ -1,6 +1,5 @@
 ### Some profile stats
-
-
+---
 ![GitHub metrics](https://metrics.lecoq.io/zFlxw?languages=1&followup=1&config.timezone=Europe%2FBerlin)
 
 
