@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on projects for Melion.net
 - 🌱 I’m currently learning Kotlin
-- ⚡ Fun fact: I've recently bought a Logitech G29 steering wheel
+- ⚡ Fun fact: I like turtle's
 
 <!--
 **zFlxw/zFlxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
