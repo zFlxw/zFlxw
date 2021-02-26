@@ -5,7 +5,7 @@
 
 ## Some other information
 
-- 🔭 I’m currently working on projects for Melion.net
+- 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I like turtle's
 
