@@ -1,16 +1,12 @@
-### Some profile stats
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)
-
-
-<!--- ![GitHub metrics](https://metrics.lecoq.io/zFlxw?languages=1&followup=1&config.timezone=Europe%2FBerlin) -->
-
-
 ## Some other information
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I like turtles
+
+### Some stats
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **zFlxw/zFlxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
