@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I like turtles
 
 ### Some stats
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)
 
 <!--
