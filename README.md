@@ -16,7 +16,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 ### Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zFlxw&layout=compact&theme=darcula)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zFlxw&layout=compact&theme=darcula)
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zFlxw&layout=compact&theme=darcula)
 
 <h1></h1>
 <p>All icons by <a href="https://iconscout.com/icons/" target="_blank">Iconscout</a></p>
