@@ -12,9 +12,10 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
   
 ### Tools:
   [![IntelliJ IDEA](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/jetbrains.png)](https://www.jetbrains.com)  [![VSCode](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/vscode.png)](https://code.visualstudio.com/)  [![MongoDB](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/mongodb.png)](https://www.mongodb.com/)
-  
-<details open>
-  <summary markdown="h3">Stats:</summary>
+
+### Stats:
+<details>
+  <summary markdown="span">Open me</summary>
   
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)  
   
