@@ -13,9 +13,8 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 ### Tools:
   [![IntelliJ IDEA](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/jetbrains.png)](https://www.jetbrains.com)  [![VSCode](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/vscode.png)](https://code.visualstudio.com/)  [![MongoDB](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/mongodb.png)](https://www.mongodb.com/)
   
-### Stats
 <details open>
-  <summary markdown="span">These are some of my coding stats:</summary>
+  <summary markdown="h3">Stats:</summary>
   
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)  
   
@@ -23,6 +22,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 
   ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zFlxw&layout=compact&theme=darcula)
 
-  <h1></h1>
-  <p>All icons by <a href="https://iconscout.com/icons/" target="_blank">Iconscout</a></p>
 </details>
+
+<h1></h1>
+<p>All icons by <a href="https://iconscout.com/icons/" target="_blank">Iconscout</a></p>
