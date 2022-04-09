@@ -16,6 +16,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 ### Stats
 <details open>
   <summary markdown="span">These are some of my coding stats:</summary>
+  
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zFlxw&count_private=true&show_icons=true&theme=dracula)  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zFlxw&layout=compact&theme=darcula)
 
   ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zFlxw&layout=compact&theme=darcula)
