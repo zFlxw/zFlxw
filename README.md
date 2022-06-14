@@ -4,16 +4,51 @@
 
 <h1 align="center">Flxw - That's me :wave:</h1> 
 
-### About me:
+## About me:
 Hey there! Nice to see you here, hope you are having a nice day or night :) I am Flxw, a hobby developer and student. On my GitHub page you will find all kind of repositories, but most of them are probably written in Java or JavaScript. If you have any questions, just contact via my Discord: `Flxw#7928 (315574841031786496)`. Below you will find some programming languages and tools I use, and some stats. Cya :)
 
-### Languages:
-  [![Java](https://github.com/zFlxw/zFlxw/blob/main/assets/languages/java.png)](https://www.java.net)  [![Kotlin](https://github.com/zFlxw/zFlxw/blob/main/assets/languages/kotlin.png)](https://www.kotlinlang.org/)  [![JavaScript](https://github.com/zFlxw/zFlxw/blob/main/assets/languages/javascript.png)](https://www.javascript.com/)
-  
-### Tools:
-  [![IntelliJ IDEA](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/jetbrains.png)](https://www.jetbrains.com)  [![VSCode](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/vscode.png)](https://code.visualstudio.com/)  [![MongoDB](https://github.com/zFlxw/zFlxw/blob/main/assets/tools/mongodb.png)](https://www.mongodb.com/)
 
-### Stats:
+## My Skill Set
+
+### Languages  
+<div>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+</div>
+
+### Tools & Frameworks  
+<div>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
+
+<br/>  
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zFlxw" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://instagram.com/i.am.flxw" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
+<a href="https://discord.com" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Flxw%237928-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+</a>  
+</div>  
+
+## Stats:
 <details>
   <summary markdown="span">Open me</summary>
   
