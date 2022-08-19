@@ -44,7 +44,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 </a>
 <a href="https://instagram.com/i.am.flxw" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
-<a href="discord://-/users/315574841031786496" target="_blank">
+<a href="discord://-/users/315574841031786496">
   <img src="https://img.shields.io/badge/Discord-Flxw%237928-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 </a>  
 </div>  
