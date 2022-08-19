@@ -5,7 +5,7 @@
 <h1 align="center">Flxw - That's me :wave:</h1> 
 
 ## About me:
-Hey there! Nice to see you here, hope you are having a nice day or night :) I am Flxw, a hobby developer and student. On my GitHub page, you will find all kind of repositories. Most of them are probably written in Java or TypeScript. If you have any questions, just contact via my Discord: `Flxw#7928 (315574841031786496)` (or click the fancy badge at the end of this file). Below, you will also find some programming languages and tools I use, and some cool stats. Cya :)
+Hey there! Nice to see you here, hope you are having a nice day or night :) I am Flxw, a hobby developer and student. On my GitHub page, you will find all kind of repositories. Most of them are probably written in Java or TypeScript. If you have any questions, just contact via my Discord: `Flxw#7928 (315574841031786496)`. Below, you will also find some programming languages and tools I use, and some cool stats. Cya :)
 
 
 ## My Skill Set
