@@ -4,11 +4,11 @@
 
 <h1 align="center">Flxw - That's me :wave:</h1> 
 
-## About me:
+## 👋 About me:
 Hey there! Nice to see you here, hope you are having a nice day or night :) I am Flxw, a hobby developer and student. On my GitHub page, you will find all kind of repositories. Most of them are probably written in Java or TypeScript. If you have any questions, just contact via my Discord: `Flxw#7928 (315574841031786496)`. Below, you will also find some programming languages and tools I use, and some cool stats. Cya :)
 
 
-## My Skill Set
+## ⭐ My Skill Set
 
 ### Languages  
 <div>  
@@ -37,7 +37,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 
 <br/>  
 
-## Connect with me  
+## 🔌 Connect with me  
 <div align="center">
 <a href="https://github.com/zFlxw" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
@@ -49,7 +49,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 </a>  
 </div>  
 
-## Stats:
+## 🕒Stats:
 <details>
   <summary markdown="span">Open me</summary>
   
