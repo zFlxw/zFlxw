@@ -49,7 +49,7 @@ Hey there! Nice to see you here, hope you are having a nice day or night :) I am
 </a>  
 </div>  
 
-## 🕒Stats:
+## 🕒 Stats:
 <details>
   <summary markdown="span">Open me</summary>
   
