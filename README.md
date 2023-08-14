@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="128" height="128" src="https://github.com/zFlxw/zFlxw/blob/main/assets/mascot.png" alt="wolf mascot, I whish you could see it :(">  
-</p>
-
-<h1 align="center">Flxw - That's Me :wave:</h1> 
+<img src="https://github.com/zFlxw/zFlxw/blob/main/assets/header.png" alt="A cool header image. But why is it not loading?">  
 
 ## 👋 About me:
 Hey there! Nice to see you here, hope you are having a nice day or night. I am Flxw, a hobby developer and student. On my GitHub page, you can find all kind of repositories. Most of them are probably written in Java or TypeScript. If you have any questions, just contact via my Discord: `zflxw (315574841031786496)`. Below, you can also find some programming languages and tools I use, and some cool stats. Cya :)
