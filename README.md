@@ -1,4 +1,4 @@
-<img src="https://github.com/zFlxw/zFlxw/blob/main/assets/header.png" alt="A cool header image. But why is it not loading?" />  
+<img src="https://github.com/zFlxw/zFlxw/blob/main/assets/header-new.png" alt="A cool header image. But why is it not loading?" />  
 
 # 📁 Current Project: Hondicard
 Hondicard is a free-to-use flash-card system, where you can store information on digital flash-cards and share them in a group with your friends. Check out the live version on: https://hondicard.com.
