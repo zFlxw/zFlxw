@@ -4,8 +4,8 @@
   <h1>📁 Current Project: <a href="https://hondicard.com" target="_blank">Hondicard</a></h2>
   <div align="center">
     <img src="https://github.com/zFlxw/zFlxw/blob/main/assets/hondicard_mockup.png" alt="Hondicard Mockup" width="500" />
-    
   </div>
+  <br>
   <p>Hondicard is a free-to-use flash-card system, where you can store information on digital flash-cards and share them in a group with your friends. Check out the live version on: https://hondicard.com.</p>
 </div>
 
