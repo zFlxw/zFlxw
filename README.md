@@ -1,5 +1,3 @@
-<img src="https://github.com/zFlxw/zFlxw/blob/main/assets/header-new.png" alt="A cool header image. But why is it not loading?" />  
-
 <div style="display: flex; flex: 1; flex-direction: row;">
   <h1>📁 Current Project: <a href="https://hondicard.com" target="_blank">Hondicard</a></h2>
   <div align="center">
